@@ -29,7 +29,7 @@ public class Main {
     for (int i = 0; i < array3.length; i++) {
         System.out.print(array3[i]);
         if (i != array1.length - 1) {
-            System.out.print(", ");
+        System.out.print(", ");
         }
     }
     System.out.println();
